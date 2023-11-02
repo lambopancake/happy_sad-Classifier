@@ -4,6 +4,6 @@ A classification project based on images that will detect if a person is happy o
 
 Output:
 
-![Image2](Happy%20Sad%20Classification%Images/image2.png)
+![Image2](Happy%20Sad%20Classification%20Images/image2.png)
 
-![Image1](Happy%20Sad%20Classification%Images/image1.png)
+![Image1](Happy%20Sad%20Classification%20Images/image1.png)
